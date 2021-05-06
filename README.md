@@ -5,7 +5,7 @@
 
 <h3 align="center">A developer passionate about technology.</h3>
 
-<p align="center"> ⚡ Fun fact: like a coffee </p>
+<p align="center"> ⚡ Fun fact: like a coffee :coffee: </p>
 
 [comment]: <> (<p align="center">)
 
