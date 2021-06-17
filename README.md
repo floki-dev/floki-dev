@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">A developer passionate about technology.</h3>
-
-<p align="center"> ⚡ Fun fact: like a coffee :coffee: </p>
-
 [comment]: <> (<p align="center">)
 
 [comment]: <> (  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-dev&count_private=true&theme=radical&langs_count=6&layout=compact"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-dev&count_private=true&theme=radical&langs_count=6&layout=compact" /></a>)
