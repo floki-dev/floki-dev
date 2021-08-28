@@ -3,7 +3,7 @@
 [comment]: <> (  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-dev&count_private=true&theme=radical&langs_count=6&layout=compact"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-dev&count_private=true&theme=radical&langs_count=6&layout=compact" /></a>)
 
 [comment]: <> (</p>)
-<h2> Connect with me </h2>
+<h2 align="center"> Connect with me </h2>
 
 <p align="center">
   <a href="mailto:fedorvladimirov7@gmail.com">
@@ -14,9 +14,9 @@
   </a>
 </p>
 
-### Back-end development
+<h2 align="center">Back-end development</h2>
 
-<table>
+<table align="center">
   <tr>
     <th align="center">Laravel</th>
     <th align="center">PHP</th>
@@ -31,9 +31,9 @@
   </tr>
 </table>
 
-### Some experience in Front-end development
+<h2 align="center">Some experience in Front-end development</h2>
 
-<table>
+<table align="center">
   <tr>
     <th align="center">Angular</th>
     <th align="center">JavaScript</th>
@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-<h2>Skills</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://www.docker.com/"><img src="https://img.icons8.com/dusk/64/000000/docker.png" alt="docker" width="40" height="40"/></a>
