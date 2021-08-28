@@ -3,13 +3,13 @@
 [comment]: <> (  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-dev&count_private=true&theme=radical&langs_count=6&layout=compact"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-dev&count_private=true&theme=radical&langs_count=6&layout=compact" /></a>)
 
 [comment]: <> (</p>)
-<h2>🔌 Connect with me </h2>
+<h2> Connect with me </h2>
 
 <p align="center">
   <a href="mailto:fedorvladimirov7@gmail.com">
     <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail" />
   </a>
-  <a href="https://t.me/floki_dev">
+  <a href="https://t.me/fedorvladimirov">
     <img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="telegram" width="40"/>
   </a>
 </p>
