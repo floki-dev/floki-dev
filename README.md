@@ -75,7 +75,7 @@
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=floki-dev&theme=dracula" alt="floki-dev" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=floki-dev&theme=dark" alt="floki-dev" />
 </p>
 
 <h2>📊 Stats</h2>
