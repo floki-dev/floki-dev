@@ -86,5 +86,5 @@
 
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=floki-dev&count_private=true&show_icons=true&theme=radical"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api?username=floki-dev&count_private=true&show_icons=true&theme=radical"/></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=floki-dev&count_private=true&show_icons=true&theme=radical"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api?username=floki-dev&count_private=true&show_icons=true&theme=onedark"/></a>
 </p>
