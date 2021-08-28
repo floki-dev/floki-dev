@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-<h2>👩‍💻 Skills</h2>
+<h2>Skills</h2>
 
 <p align="center">
   <a href="https://www.docker.com/"><img src="https://img.icons8.com/dusk/64/000000/docker.png" alt="docker" width="40" height="40"/></a>
@@ -64,7 +64,7 @@
   <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="windows" width="40" height="40"/></a>
 </p>
 
-<h2>💼 My Hubs</h2>
+<h2>Hubs</h2>
 
 <p align="center">
   <a href="https://hub.docker.com/u/fedorvladimirov"><img src="https://img.icons8.com/dusk/64/000000/docker.png" alt="My Docker Hub Repositories" width="40" height="40"/></a>
@@ -72,18 +72,15 @@
   <a href="https://bitbucket.org/floki-dev"><img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="My GitHub Hub Repositories" width="40" height="40"/></a>
 </p>
 
-<h2>🔥 Streak Stats</h2>
+<h2>Streak Stats</h2>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=floki-dev&theme=dark" alt="floki-dev" />
 </p>
 
-<h2>📊 Stats</h2>
-
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=floki-dev&bg_color=1F222E&color=F8D867&line=F28701&point=FFFFFF&hide_border=true" /></a>
 </p>
-
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=floki-dev&count_private=true&show_icons=true&theme=radical"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api?username=floki-dev&count_private=true&show_icons=true&theme=onedark"/></a>
