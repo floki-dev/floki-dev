@@ -36,15 +36,11 @@
 <table align="center">
   <tr>
     <th align="center">Angular</th>
-    <th align="center">JavaScript</th>
     <th align="center">TypeScript</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/angularjs.png" height="60">
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/javascript.png" height="60">
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/typescript.png" height="60">
@@ -57,11 +53,11 @@
 <p align="center">
   <a href="https://www.docker.com/"><img src="https://img.icons8.com/dusk/64/000000/docker.png" alt="docker" width="40" height="40"/></a>
   <a href="https://www.redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="40" height="40"/></a>
+  <a href="https://www.mysql.com"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql" width="40" height="40"/></a>
   <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="intellij-idea" width="40" height="40"/></a>
-  <a href="https://ubuntu.com/"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="ubuntu" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="windows" width="40" height="40"/></a>
+  <a href="https://www.kernel.org/"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="ubuntu" width="40" height="40"/></a>
 </p>
 
 <h2>Hubs</h2>
