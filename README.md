@@ -65,7 +65,7 @@
 <p align="center">
   <a href="https://hub.docker.com/u/fedorvladimirov"><img src="https://img.icons8.com/dusk/64/000000/docker.png" alt="My Docker Hub Repositories" width="40" height="40"/></a>
   <a href="https://github.com/floki-dev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="My GitHub Hub Repositories" width="40" height="40"/></a>
-  <a href="https://bitbucket.org/floki-dev"><img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="My GitHub Hub Repositories" width="40" height="40"/></a>
+<!--   <a href="https://bitbucket.org/floki-dev"><img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="My GitHub Hub Repositories" width="40" height="40"/></a> -->
 </p>
 
 <h2>Streak Stats</h2>
