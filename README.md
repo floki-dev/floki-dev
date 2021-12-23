@@ -68,11 +68,11 @@
 <!--   <a href="https://bitbucket.org/floki-dev"><img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="My GitHub Hub Repositories" width="40" height="40"/></a> -->
 <!-- </p> -->
 
-<!-- <h2>Streak Stats</h2> -->
+<h2>Activity</h2>
 
-<!-- <p align="center">
+<p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=floki-dev&theme=dark" alt="floki-dev" />
-</p> -->
+</p>
 
 <!-- <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=floki-dev&bg_color=1F222E&color=F8D867&line=F28701&point=FFFFFF&hide_border=true" /></a>
