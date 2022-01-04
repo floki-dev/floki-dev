@@ -1,9 +1,4 @@
-<!-- [comment]: <> (<p align="center">)
-
-[comment]: <> (  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-dev&count_private=true&theme=radical&langs_count=6&layout=compact"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-dev&count_private=true&theme=radical&langs_count=6&layout=compact" /></a>)
-
-[comment]: <> (</p>)
-<h2> Connect with me </h2>
+<h2> Contacts </h2>
 
 <p align="center">
   <a href="mailto:fedorvladimirov7@gmail.com">
@@ -13,6 +8,26 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="telegram" width="40"/>
   </a>
 </p>
+
+<h2>Hubs</h2>
+
+<p align="center">
+  <a href="https://hub.docker.com/u/fedorvladimirov"><img src="https://img.icons8.com/dusk/64/000000/docker.png" alt="My Docker Hub Repositories" width="40" height="40"/></a>
+  
+<h2>Activity</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=floki-dev&theme=dark" alt="floki-dev" />
+</p>
+
+
+
+<!-- [comment]: <> (<p align="center">)
+
+[comment]: <> (  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-dev&count_private=true&theme=radical&langs_count=6&layout=compact"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floki-dev&count_private=true&theme=radical&langs_count=6&layout=compact" /></a>)
+
+[comment]: <> (</p>)
+
 
 <h2>Back-end development</h2>
 
@@ -60,10 +75,7 @@
   <a href="https://www.kernel.org/"><img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="ubuntu" width="40" height="40"/></a>
 </p>
 
-<h2>Hubs</h2>
 
-<p align="center">
-  <a href="https://hub.docker.com/u/fedorvladimirov"><img src="https://img.icons8.com/dusk/64/000000/docker.png" alt="My Docker Hub Repositories" width="40" height="40"/></a>
   <a href="https://github.com/floki-dev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="My GitHub Hub Repositories" width="40" height="40"/></a>
 <!--   <a href="https://bitbucket.org/floki-dev"><img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="My GitHub Hub Repositories" width="40" height="40"/></a> -->
 <!-- </p> -->
