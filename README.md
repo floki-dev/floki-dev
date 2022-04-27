@@ -1,5 +1,3 @@
-<h2> Hello! Nice to meet you:) </h2>
-
 <h2>Activity</h2>
 
 <p align="center">
